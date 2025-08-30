@@ -23,5 +23,4 @@ The fixture is optimized for functionality, durability, and ease of use, adherin
 - **SolidWorks**: Used for creating both 2D and 3D designs of the fixture.
 - **SolidWorks Simulation**: Optional, for evaluating the fixture's performance under loading conditions (e.g., stress analysis).
 
-   ```bash
-   git clone https://github.com/yourusername/fixture-design.git
+  
